@@ -8,7 +8,7 @@ This repo contains the binary for testing the latest FX/OS build.  The current s
 You can poke around in the desktop, but don't expect too much yet.  Under Accessories, there is a calculator that functions (at least the first time).
 
 
-I have included a tools to push to the Foeix, or you can use the IDE.
+I have included a tools to push to the **Foenix C256**, or you can use the IDE.
 
 ```
 c256serial.bat -s28 boot.hex -p XR21B1411
@@ -73,3 +73,5 @@ Port:COM27
 Port:COM27
         Desc  :Silicon Labs CP210x USB to UART Bridge (COM27)[CP2102 USB to UART Bridge Controller]
 ```
+
+***As always, as special thanks to Stef***
