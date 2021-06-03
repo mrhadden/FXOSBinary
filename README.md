@@ -10,3 +10,5 @@ I have included a tools to push to the Foeix, or you can use the IDE.
 ```
 c256serial.bat -s28 boot.hex -p XR21B1411
 ```
+
+For development cross-compatibility the tool is java based, so you need at least Java 8 installed.
