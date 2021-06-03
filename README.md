@@ -5,6 +5,9 @@ Build artifact of the FX/OS build
 This repo contains the binary for testing the latest FX/OS build.  The current status of the binary is alpha qaulity.  The source will follow once I have stablized it.
 
 
+You can poke around in the desktop, but don't expect too much yet.  Under Accessories, there is a calculator that functions (at least the first time).
+
+
 I have included a tools to push to the Foeix, or you can use the IDE.
 
 ```
