@@ -2,11 +2,12 @@
 Build artifact of the FX/OS build
 
 
-This repo contains the binary for testing the latest FX/OS build.  The current status of the binary is alpha qaulity.  The source will follow once I have stablized it.
+This repo contains the binary for testing the latest FX/OS build.  The current status of the binary is alpha quality.  The source will follow once I have stablized it.
 
+![Screenshot 2021-06-11 10-06-41](https://user-images.githubusercontent.com/37045780/121708148-e3c54f80-ca9c-11eb-9615-5908e348c706.png)
 
 You can poke around in the desktop, but don't expect too much yet.  Under Accessories, there is a calculator that functions (at least the first time).
-
+I have added the API base location in the About FX/OS popup.
 
 I have included a tools to push to the **Foenix C256**, or you can use the IDE.
 
